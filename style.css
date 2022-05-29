@@ -144,7 +144,7 @@
 }
 
 .section-container .videos {
-    width:100%;
+    
     /* height:100%; */
     
     display:flex;
@@ -155,7 +155,8 @@
 
 .videos-container {
     background-color:#F9F9F9;
-    height:100%;
+    padding-bottom:300px;
+    
 }
 
 .video-content {
